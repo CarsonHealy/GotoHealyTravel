@@ -1,2 +1,2 @@
-# GotoHealyTravel
-This the second web of Healy Travel! Enjoy!
+# Go to Healy Travel
+This the web of Healy Travel! Enjoy!
